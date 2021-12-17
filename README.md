@@ -1,17 +1,11 @@
-> I'm from Brazil. 📍
+# Welcome to *my* homepage. <img src="https://d3qhp42p4neron.cloudfront.net/ARCHIVE/animated/3.5/GIF/512/fireworks.gif?Expires=1639788129&Signature=bRiyn2PX2Bk9C6KRdnOg8ddRz8aEzU0wuqc2-2GfFiHtt8BUJWzMnqje~2pZsZHHmDQNdA9ZSF2pjJseQoO6I3oG8cjHWkLqtDI86tnZpD2ujyIXLpKd-3WP5~iL4Ik9p7lEKSBpTrSMjaVIbXqR1j3LOeqgnaorjS8f3HO14cvQYNHcbCQbSfbhGk1kw~UK1w62nxtD8scYQcqvoX3~c0mYatFna-VLsBWOYm5Mut~dggpQSSxBjE-lQqwFn7MgUtM4~Ny4dcKo0A-lvKMPHoupTkc8SZTyKMjh7icGRVWsdI7gFXAa~jXbaPd0LIm05jEQJzPF8tn69ChExUy~Ug__&Key-Pair-Id=APKAIRGCVGOY7DOKYTJA" title="Fireworks" width="64" height="64" align="center">
+<img src="https://i.imgur.com/DkBSP0P.png" title="source: imgur.com" align="center" width="200"/> ***First of all, my main languages are: Python, JavaScript and React Framework. I'm from Brazil ( <img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1e7-1f1f7.png" width="20" align="center"> )***
 
-An undergraduate **Computer Engineer**, studying a lot of languages such as *JavaScript*, *Python*, *Java*, *GNU Octave*... I don't have much experience, but I'm doing my best 😊.
+***Who am i?*** <img src="https://d3qhp42p4neron.cloudfront.net/ARCHIVE/animated/3.5/GIF/512/thinking_face.gif?Expires=1639788086&Signature=RVsGJ11IVqdB4iWngng4sQ-FdrgGri4XOLFN7LSDZL33LqQ04FHB39PdInH4HbCzgY9211LrMitn~k1n1h-NxNq9Yw844Q3QeAxPruqWFJa25EZ22Uv~nfrTXgh0Do6qpOqOF2zaaLOAQdsHqU5eRltbLHcndO~Wv2R7jo-jlJLQDgF-2G5pvI9RO6J3xpjJm2vPO7gAWY2Fl7Nt-tJUlZIvpwMhSN4eoZ6c1BD-TdVrdybP~R1DVJ-b8Vdx-ouJ37EJA35T7Ma7u-PCxxkEI5ikDW7zQKQlSYivMeX0yXPa3WXQLorOyM~ATSy5KW0hWjfNkBl1fZQf0PttDHSBdg__&Key-Pair-Id=APKAIRGCVGOY7DOKYTJA" width="40" align="center" title="Thinking Face">
+*My name is Ricardo Faria da Costa, but i prefer that you call me "Ricardo Faria" or "Ricardo".*
 
-<h4 align="center">At the moment, I am only a colleague student.</h4>
-<p align="center">
-	<a href="https://www.instagram.com/ricardo.fariac/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="max-width: 100%"/></a>
-	<a href="https://twitter.com/ricardo_fariac"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="max-width: 100%" /></a>
-</p>
-<h3 align="center"> PC SPECS: </h3>
-<p align="center"/><img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-
-<p align="center"><img src="https://img.shields.io/badge/AMD-Radeon_RX_580-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></img>
-<img src="https://img.shields.io/badge/AMD-Ryzen_5_3400G-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></img>
-<img src="
-https://img.shields.io/badge/RAM-16GB-ED1C24?style=for-the-badge&logo=&logoColor=white"></img>
-</p>
+ - *My pronouns are **he/him**.*
+ - *My hobbies are play, read and code.*
+ - *I'm trying my best! <img src='https://d3qhp42p4neron.cloudfront.net/ARCHIVE/animated/3.0/GIF/512/smiling_face_with_sunglasses.gif?Expires=1639785890&Signature=VXAGWl3z7Nph14XU-pFu5dF6cDbXjGc0~eAiQJYWeHzzaBrRTGVCO~IBldTIzZYzPsqsAyUCP-ipIYwLl8cR5epzcnLGK9R56SXPfC0vOlgRLE3O5W4RAvznvSFqygqSlXNqaOy1hCrEZujUt7wpk3ui5iJaHwvxZhixQhX78h09XWSsAEEc8myNgsQnNSEqyqQg-vG0UU3Aqo01AYFTP79SR5Tzn1CZUjaVc8mtm67pR0H488~LDfTRRI6t6ouQOLbcoojW5-wfGN8J5xhhSXczIWiAYERA~dbtwTlotWm39lyxi~xFmvc7n3oPFgVt8O2tsK59oYAacVk-61xlfA__&Key-Pair-Id=APKAIRGCVGOY7DOKYTJA' align="center" width="30"/>*
+ 
+ *I really don't like to tell about my life or smt like.* **If you wanna message me, feel free to do it. <img src="https://d3qhp42p4neron.cloudfront.net/ARCHIVE/animated/3.5/GIF/512/handshake.gif?Expires=1639786618&Signature=EqxiaAYSUZebnu04aOHACghZov4WPJ68rGTqWAlSUefCIPE83qqq2E2zFwcrkaLCUZFEdWJKo8yMOk5mwdh2P8vtcKB9EfCCtlEbxmGiPPYqVcb8WCbqGKnG76DAdqn-nKh4scw7TFF9KWUIV60Kh2YyStkOwQoSDTmxLLwedDMTfG5rZ4IgNcekCuGVVC-Ja-53af-TYb07UOadyJGEPlgVc0WVbjLaXKwqfUXk7T1S9T4ZBMolGFn0mwkOb2pFG7u3p-KXCaagWVgLAtMK1FDpaGLkr2oG4WP4krAYjNHUo1TVZWv1Us0GN-vQQeeJQ5XkYCwedIxF2SSsds6UhQ__&Key-Pair-Id=APKAIRGCVGOY7DOKYTJA" align="center" width=40>** 
