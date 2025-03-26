@@ -14,7 +14,7 @@
 >  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" />
 > </div>
 > <br>
-> Tools and languages i know
+> Tools and languages I know
 > <br><br>
 > <div styles="gap:2px">
 >  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" />
