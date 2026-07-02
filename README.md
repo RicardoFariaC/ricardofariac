@@ -32,7 +32,7 @@
 > <a href="https://www.linkedin.com/in/ricardofariac/">
 >   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg"/>
 > </a>
-> <a href="mailto:ricardofcosta0804@gmail.com">
->   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg" />
+> <a href="mailto:contato@ricardofariac.dev">
+>  contato@ricardofariac.dev
 > </a>
 > </a>
